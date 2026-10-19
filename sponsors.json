@@ -1,1 +1,36 @@
-
+{
+  "contact": "https://rradin.com/",
+  "sponsors": [
+    {
+      "id": "eternaltm-2026",
+      "name": "Eternal",
+      "slots": ["login", "dashboard", "page"],
+      "until": "2030-12-31T23:59:59Z",
+      "logo": "eternal.png",
+      "title": {
+        "en": "Eternal",
+        "fa": "اترنال"
+      },
+      "text": {
+        "en": "Website and mobile app development, plus design services.",
+        "fa": "برنامه‌نویسی سایت و اپلیکیشن، به‌همراه خدمات طراحی."
+      },
+      "link": "https://eternaltm.ir/"
+    },
+    {
+      "id": "rradin-2026",
+      "name": "Radin",
+      "slots": ["login", "dashboard", "page"],
+      "until": "2030-12-31T23:59:59Z",
+      "title": {
+        "en": "Radin",
+        "fa": "رادین"
+      },
+      "text": {
+        "en": "Website and mobile app development.",
+        "fa": "برنامه‌نویسی سایت و اپلیکیشن."
+      },
+      "link": "https://rradin.com/"
+    }
+  ]
+}
